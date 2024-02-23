@@ -1,0 +1,64 @@
+body {
+    background-color: hsl(204, 27%, 55%);
+    font-family: sans-serif;
+    text-align: justify;
+    
+}
+
+h1 {
+  font-family: "Lora", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  text-align: center;
+  font-size: 250%;
+}
+
+h2 {
+    font-family: "Bungee Spice", sans-serif;
+    font-weight: 900;
+    font-size: 250%;
+    font-style: normal;
+    text-align: center;
+    background-color: rgb(16, 236, 236);
+  }
+  
+
+h3 {
+    font-family: "Lora", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
+li{
+    font-family: "Grandstander", cursive;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    font-size: 100% 
+}
+
+p {
+    background-color: hsl(200, 15%, 75%);
+    font-family: "Grandstander", cursive;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
+
+em {
+    color: hsl(200, 100%, 40%);
+    font-style: normal;
+    font-weight: bold;
+}
+
+strong {
+    color: hsl(200, 100%, 30%);
+    font-weight: normal;
+}
+
+address {
+    background-color: white;
+    font-weight: bold;
+    text-align: right;
+}
